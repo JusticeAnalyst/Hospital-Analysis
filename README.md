@@ -2,6 +2,7 @@
 ## Overview
 This dashboard provides a high-level analysis of hospital operations, including patient demographics, financial metrics, medical conditions, and test results. It is designed to help administrators and stakeholders monitor key performance indicators (KPIs) and make data-driven decisions.Also Data cleaning like removal of duplicate,Simplifying the Age to Young, Youth, Adul and old with excel function for easy analysis before the analysis was carried out
 ## Dashboard 
+https://github.com/JusticeAnalyst/Hospital-Analysis/blob/main/111.png
 ## Key Metrics
 The hospital analysis dashboard from 2019 to 2024 reveals key trends in patient demographics, medical conditions, and financial data. Key findings include: 
 - Total Patients**: 40,235 (with 600 Roman patients). 
