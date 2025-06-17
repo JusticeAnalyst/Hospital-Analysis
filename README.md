@@ -1,4 +1,4 @@
-# Hospital Perfromance Analysis
+# Hospital Perfromance Analysis (Tool used is Ms Excel)
 ## Overview
 This dashboard provides a high-level analysis of hospital operations, including patient demographics, financial metrics, medical conditions, and test results. It is designed to help administrators and stakeholders monitor key performance indicators (KPIs) and make data-driven decisions.Also Data cleaning like removal of duplicate,Simplifying the Age to Young, Youth, Adul and old with excel function for easy analysis before the analysis was carried out
 ## Dashboard 
